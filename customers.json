@@ -9,7 +9,7 @@
             "password": "Moondawg32",
             "apartment": "IVY",
             "phone-number": "(208) 390-1698",
-            "lisence-plate-number": "8B KL892"
+            "license-plate-number": "8B KL892"
         },
 
         {
@@ -19,8 +19,8 @@
             "email": "kan14002@byui.edu",
             "password": "Password",
             "apartment": "Nauvoo",
-            "phone-number": "(509) 590 5600",
-            "lisence-plate-number": ""
+            "phone-number": "(509) 590-5600",
+            "license-plate-number": ""
         },
 
         {
@@ -31,7 +31,7 @@
             "password": "Password",
             "apartment": "Nauvoo",
             "phone-number": "(480) 310-8792",
-            "lisence-plate-number": ""
+            "license-plate-number": ""
         },
 
         {
@@ -42,7 +42,7 @@
             "password": "Password",
             "apartment": "Nauvoo",
             "phone-number": "(208) 419-5826",
-            "lisence-plate-number": ""
+            "license-plate-number": ""
         },
 
         {
@@ -53,7 +53,7 @@
             "password": "Password",
             "apartment": "Nauvoo",
             "phone-number": "(208) 201-8263",
-            "lisence-plate-number": ""
+            "license-plate-number": ""
         }
 
     ]
