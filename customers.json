@@ -1,0 +1,60 @@
+{
+    "customers": [
+
+        {
+            "ID": "0",
+            "firstName":"Adrian", 
+            "lastName":"Whetten",
+            "email": "whe15017@byui.edu",
+            "password": "Moondawg32",
+            "apartment": "IVY",
+            "phone-number": "(208) 390-1698",
+            "lisence-plate-number": "8B KL892"
+        },
+
+        {
+            "ID": "1",
+            "firstName":"Amelia", 
+            "lastName":"Kannapien",
+            "email": "kan14002@byui.edu",
+            "password": "Password",
+            "apartment": "Nauvoo",
+            "phone-number": "(509) 590 5600",
+            "lisence-plate-number": ""
+        },
+
+        {
+            "ID": "2",
+            "firstName":"Morgan", 
+            "lastName":"Landrin",
+            "email": "kan14002@byui.edu",
+            "password": "Password",
+            "apartment": "Nauvoo",
+            "phone-number": "(480) 310-8792",
+            "lisence-plate-number": ""
+        },
+
+        {
+            "ID": "3",
+            "firstName":"Brian", 
+            "lastName":"Kusi-Poku",
+            "email": "kan14002@byui.edu",
+            "password": "Password",
+            "apartment": "Nauvoo",
+            "phone-number": "(208) 419-5826",
+            "lisence-plate-number": ""
+        },
+
+        {
+            "ID": "4",
+            "firstName":"Manoel", 
+            "lastName":"Galvao",
+            "email": "kan14002@byui.edu",
+            "password": "Password",
+            "apartment": "Nauvoo",
+            "phone-number": "(208) 201-8263",
+            "lisence-plate-number": ""
+        }
+
+    ]
+}
